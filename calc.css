@@ -1,0 +1,41 @@
+body{
+  background-image:linear-gradient(bisque,aqua);
+  background-attachment: fixed;
+  margin-left: 500px;
+  text-align: center;
+ }
+
+table{
+  border-radius: 10%;
+  margin-left: 20px;
+  }
+
+table tr td {
+  height: 50px;
+  width: 50px;
+  padding: 5px; 
+}
+
+table tr td button{
+  height: 50px;
+  width: 50px;
+  background-image: linear-gradient(lime green, pink);
+  }
+
+#calculator {
+  height: 50px;
+  width: 250px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.calc{
+  height: 400px;
+  width: 300px;
+  border-radius: 10%;
+  border: 2px solid black;
+}
+
+#demo h1{
+  text-align: center;
+}
